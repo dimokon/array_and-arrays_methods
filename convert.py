@@ -2,8 +2,8 @@ import os
 from PIL import Image
 import io
 
-folder = r"C:\Users\kinya\Desktop\Twigs and Broom\frontend\public"
-output_folder = r"C:\Users\kinya\Desktop\Twigs and Broom\frontend\public\New folder"
+folder = r"C:\Users\kinya\Desktop\Sketchline_build\public"
+output_folder = r"C:\Users\kinya\Desktop\Sketchline_build\public\New folder"
 
 os.makedirs(output_folder, exist_ok=True)
 
